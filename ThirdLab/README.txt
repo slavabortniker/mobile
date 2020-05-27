@@ -1,0 +1,1 @@
+Компиляция – mvn compileЗапуск– mvn exec:java – Dexec.mainClass=”ThirdLab”
